@@ -17,22 +17,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=booo2233&icon=0&color=0)](https://visitcount.itsvg.in)
-<div align="left">
-</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/booo2233/booo2233/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
